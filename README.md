@@ -28,13 +28,9 @@ python main.py -b 256 -e 20 -g 2\3\4
 ```
 
 ## DistributedDataParallel
-``` language
-cd data_parallel
-python main.py -b 256 -e 20 -g 2\3\4
-```
+pass
 
 # Performance
-## single cpu
 
 ## single gpu / DataParallel
 * batch size: 256
