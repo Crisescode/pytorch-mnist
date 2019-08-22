@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a621f70-4200-40f9-b160-8bb982471116" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/single_gpu/load_dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single_gpu/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single_gpu/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data_parallel/train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="74" column="8" lean-forward="true" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+            <state relative-caret-position="27">
+              <caret line="103" column="42" selection-start-line="103" selection-start-column="42" selection-end-line="103" selection-end-column="42" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -146,11 +145,6 @@
             <path>
               <item name="pytorch-mnist" type="b2602c69:ProjectViewProjectNode" />
               <item name="pytorch-mnist" type="462c0819:PsiDirectoryNode" />
-              <item name="dist_parallel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pytorch-mnist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pytorch-mnist" type="462c0819:PsiDirectoryNode" />
               <item name="single_cpu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -166,6 +160,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -195,16 +190,15 @@
       <option name="presentableId" value="Default" />
       <updated>1566309367722</updated>
       <workItem from="1566309376944" duration="4834000" />
-      <workItem from="1566387853562" duration="1315000" />
+      <workItem from="1566387853562" duration="2089000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6149000" />
+    <option name="totallyTimeSpent" value="6923000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24656427" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -297,8 +291,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data_parallel/train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="74" column="8" lean-forward="true" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+        <state relative-caret-position="27">
+          <caret line="103" column="42" selection-start-line="103" selection-start-column="42" selection-end-line="103" selection-end-column="42" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
