@@ -97,9 +97,6 @@ def main():
                                               batch_size=args.batchsize,
                                               shuffle=False)
     model = Net()
-    if torch.cuda.device_count() > 1:
-        model = nn.DataParallel(model)
-
     model = model.to(device)
 
     optimizer = optim.SGD(model.parameters(), lr=args.lr, momentum=args.momentum)
