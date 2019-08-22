@@ -1,4 +1,4 @@
-# pytorch-mnist
+# PyTorch MNIST DEMO
 Some pytorch demo scripts based on mnist datasets, so that everyone can get started with the pytorch deep learning framework.
 
 # Requirement
